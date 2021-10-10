@@ -1,7 +1,7 @@
 var repeat = true
 
 while ( repeat ) { 
-	alert ( "selamat datang di game tebak angka \ntebak angka dari 1 - 5 \ndan komputer akan membandingkkan nya" );
+	alert ( "selamat datang di game tebak angka \ntebak angka dari 1 - 5 \ndan komputer akan membandingkan nya" );
 	alert ( "percobaan hanya 1 kali jadi cobalah keberutangan mu");
 
 	// user
@@ -42,7 +42,7 @@ while ( repeat ) {
 	alert ("pilihan mu adalah " + user + "\ndan pilihan computer adalah " + cop + "\nmaka kamu " + hasil );
 
 	// ulang
-	repeat = confirm("seru?, kalo seru main lagi yuk");
+	repeat = confirm("seru? kalo seru main lagi yuk");
 }
 
 alert ( " yah udahan kalo lagi bosen main dengan ku yuk kalian bisa ketik website yang di atas ");
